@@ -1,13 +1,6 @@
 # MedImgAIAnalyzer 的 文档仓库
 ---
-# 目录树
-```
-MedImgAIAnalyzer-docs
-├── 架构图.svg
-├── 前端项目介绍.txt
-└── README.md
-```
----
+# 文档：
 
 [前端项目介绍](前端项目介绍.md)
 
