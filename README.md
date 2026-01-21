@@ -1,7 +1,7 @@
 # MedImgAIAnalyzer 的 文档仓库
 
 # 项目进度List
-请注意：请在每次开始做这个项目前，务必check项目进度List以同步颗粒度
+请注意：请在每次开始做这个项目前，务必check项目进度List以同步颗粒度  
 [【腾讯文档】 项目进度List](https://docs.qq.com/doc/DVXVjeG94bUVUT3hO)
 
 ---
