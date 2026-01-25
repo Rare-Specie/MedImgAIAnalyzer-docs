@@ -27,9 +27,17 @@
 
 ## 已有的代码(**Medical data preprocessing**)
 **Medical data preprocessing**中已使用python实现了部分所需功能的代码，需要与后端进行修改与缝合  
-代码已做解析，见[Medical data preprocessing说明.md](edical%20data%20preprocessing说明.md)
-- [压缩包[7z]](Medical%20data%20preprocessing.7z)
-- [GitHub在线查看](Medical%20data%20preprocessing)
+**注意:代码已更新V2**
+
+### V2
+代码可能会做做解析，可暂时先参考V1的说明[Medical data preprocessing说明.md](Medical%20data%20preprocessing说明.md)
+- [压缩包[7z]](Medical%20data%20preprocessingV2.7z)
+- [GitHub在线查看](Medical%20data%20preprocessingV2)
+
+### ~~V1~~
+~~代码已做解析，见[Medical data preprocessing说明.md](Medical%20data%20preprocessing说明.md)~~
+- ~~[压缩包[7z]](Medical%20data%20preprocessing.7z)~~
+- ~~[GitHub在线查看](Medical%20data%20preprocessing)~~
 
 
 ---

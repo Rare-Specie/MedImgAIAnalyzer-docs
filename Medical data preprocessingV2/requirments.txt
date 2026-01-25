@@ -1,0 +1,13 @@
+##版本仅供参考
+python=3.9
+pydicom==2.4.0
+SimpleITK==2.3.1
+numpy==1.23.2
+opencv-python==4.4.0.46
+nibabel==5.3.2
+tqdm==4.67.1
+typing_extensions=4.13.2
+matplotlib==3.9.4
+pandas==2.3.0
+Pillow==8.0.0
+mayavi==4.8.1
